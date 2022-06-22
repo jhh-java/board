@@ -1,0 +1,48 @@
+
+.title{
+	max-width: 800px;
+	min-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.titleLabel{
+	width: 100px;
+	
+}
+
+.titleArea{
+	max-width: 800px;
+	min-width: 800px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.titleArea div{
+	float: left;
+}
+
+#title{
+	width: 740px;
+	height: 35px;
+	font-weight: bold;
+}
+
+.textArea{
+	max-width: 800px;
+	min-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.textArea .btnArea{
+	margin-top: 10px;
+	margin-right: 50px;
+}
+
+textArea{
+	width: 740px;
+	height: 300px;
+	font-size: 14px;
+}
